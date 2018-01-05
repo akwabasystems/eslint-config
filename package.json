@@ -1,0 +1,30 @@
+{
+  "name": "@akwaba/eslint-config",
+  "description": "The eslint configuration for Akwaba apps",
+  "author": {
+    "name": "Daniel Ziaoure",
+    "email": "daniel@akwabasystems.com"
+  },
+  "version": "0.5.1",
+  "keywords": [
+    "akwaba",
+    "eslint"
+  ],
+  "scripts": {},
+  "bugs": {
+    "url": "https://m2.akwabasystems.net/interactive-frameworks/eslint-config/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint-plugin-babel": "^4.1.2"
+  },
+  "engines": {
+    "node": ">= 4.2.0"
+  },
+  "license": "UNLICENSED",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://m2.akwabasystems.net:/interactive-frameworks/eslint-config.git"
+  }
+}
