@@ -1,10 +1,7 @@
 "use strict";
 
-/**
- * @module eslint-config
- */
+
  module.exports = {
-   // So parent files don't get applied
    root: true,
    env: {
      es6: true,
@@ -83,4 +80,3 @@
    }
  };
 
-// @akwaba/eslint-config@1.0.0
