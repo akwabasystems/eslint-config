@@ -5,7 +5,7 @@
     "name": "Daniel Ziaoure",
     "email": "daniel@akwabasystems.com"
   },
-  "version": "0.5.1",
+  "version": "1.0.0",
   "keywords": [
     "akwaba",
     "eslint"
@@ -22,9 +22,8 @@
     "node": ">= 4.2.0"
   },
   "license": "UNLICENSED",
-  "optionalDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://m2.akwabasystems.net:/interactive-frameworks/eslint-config.git"
+    "url": "https://github.com/akwabasystems/eslint-config"
   }
 }
