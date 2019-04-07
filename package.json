@@ -22,9 +22,8 @@
     "node": ">= 4.2.0"
   },
   "license": "UNLICENSED",
-  "optionalDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://m2.akwabasystems.net:/interactive-frameworks/eslint-config.git"
+    "url": "https://github.com/akwabasystems/eslint-config"
   }
 }
