@@ -21,4 +21,4 @@ module.exports = Config;
 
 
 ## License
-Copyright (c) 2017 Akwaba Systems, Inc.
+Copyright (c) 2018 Akwaba Systems, Inc.
