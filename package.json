@@ -8,12 +8,12 @@
   "version": "1.0.2",
   "keywords": [
     "akwaba",
-    "eslint"
+    "eslint config",
+    "javascript",
+    "es5",
+    "es6"
   ],
   "scripts": {},
-  "bugs": {
-    "url": "https://m2.akwabasystems.net/interactive-frameworks/eslint-config/issues"
-  },
   "dependencies": {},
   "devDependencies": {
     "eslint-plugin-babel": "^4.1.2"
@@ -21,9 +21,9 @@
   "engines": {
     "node": ">= 4.2.0"
   },
-  "license": "UNLICENSED",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akwabasystems/eslint-config"
+    "url": "https://github.com/akwabasystems/eslint-config.git"
   }
 }
